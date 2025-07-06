@@ -25,7 +25,8 @@ This project focuses purely on frontend design and layout. It helped me strength
 
 ## 📷 Preview
 
-> _(Add a screenshot or GIF here of your working clone)_
+![image](https://github.com/user-attachments/assets/2c4f1ae2-e288-44f6-b8a3-d1c7fff46560)
+
 
 ---
 
